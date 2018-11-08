@@ -1,0 +1,345 @@
+@media only screen and (min-width: 1025px) {
+    .shopNav {
+        padding-top: 10px;
+        padding-bottom: 5px;
+        margin: 0px 40px 10px 0px;
+    }
+}
+    @media only screen and (min-width: 640px) {
+        .shopNav {
+            margin-top: 0px;
+        }
+    }
+        @media only screen and (min-width: 640px) {
+            html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+                font-size: 14px;
+            }
+        }
+        html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+            font: inherit;
+            vertical-align: baseline;
+            font-family: arial,"Lantinghei SC","Microsoft Yahei";
+        }
+        *, *:after, *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            -o-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        *, *:before, *:after {
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        div {
+            display: block;
+        }
+        @media only screen and (min-width: 640px) {
+            html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+                font-size: 14px;
+            }
+        }
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            font-size: 12px;
+            font-family: arial,"Lantinghei SC","Microsoft Yahei";
+        }
+        html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+            font: inherit;
+            vertical-align: baseline;
+            font-family: arial,"Lantinghei SC","Microsoft Yahei";
+        }
+        body, input, textarea, select, button {
+            text-rendering: optimizeLegibility;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            -moz-font-feature-settings: "liga", "kern";
+        }
+        body {
+            position: relative;
+            background: #fff;
+            font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+            font-weight: normal;
+            line-height: 1.6;
+            color: #333333;
+            font-size: 1.6rem;
+        }
+        @media only screen and (min-width: 640px) {
+            html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+                font-size: 14px;
+            }
+        }
+            html {
+                width: 100%;
+                height: 100%;
+                -ms-text-size-adjust: none;
+                -webkit-text-size-adjust: none;
+                -moz-text-size-adjust: none;
+                -o-text-size-adjust: none;
+            }
+
+            html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+                margin: 0;
+                padding: 0;
+                border: 0;
+                font-size: 100%;
+                font: inherit;
+                vertical-align: baseline;
+                font-family: arial, "Lantinghei SC", "Microsoft Yahei";
+            }
+
+            html {
+                font-size: 10px;
+                -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+            }
+
+            html {
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+            }
+
+            *, *:after, *:before {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                -o-box-sizing: border-box;
+                box-sizing: border-box;
+            }
+
+            *, *:before, *:after {
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+            }
+
+            *, *:after, *:before {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                -o-box-sizing: border-box;
+                box-sizing: border-box;
+            }
+
+            *, *:before, *:after {
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+            }
+
+
+
+@media only screen and (min-width: 1260px){
+    .slideall {
+        max-width: 1200px;
+        margin: 0px auto;
+        height: 485px;
+    }
+}
+
+@media only screen and (min-width: 1025px){
+    .slideall {
+        margin: 0px auto;
+        max-width: 1000px;
+        padding-top: 45px;
+        height: 415px;
+    }
+}
+    @media only screen and (min-width: 640px){
+        .slideall {
+            position: relative;
+        }
+        .slideall {
+            background: #fff;
+        }
+    }
+
+@media only screen and (min-width: 1025px){
+    #nav {
+        display: block;
+        position: absolute;
+        display: block;
+        z-index: 10002;
+    }}
+
+
+@media only screen and (min-width: 1260px){
+    #nav .category-content {
+        position: relative;
+        width: 180px;
+        float: left;
+        z-index: 113;
+    }
+}
+    @media only screen and (min-width: 1025px){
+        #nav .category-content {
+            position: relative;
+            width: 150px;
+            float: left;
+            z-index: 113;
+            background: #fff;
+        }
+    }
+
+@media only screen and (min-width: 1260px){
+    .category-content .category {
+        width: 180px;
+    }
+}
+    @media only screen and (min-width: 1025px){
+        .category-content .category {
+            width: 150px;
+            border: 1px solid #2b2b2b;
+            border-top: none;
+            background: #2b2b2b;
+            box-shadow: 8px 0 7px -3px rgba(0,0,0,.3);
+        }}
+
+@media only screen and (min-width: 1025px){
+    .category-content .category-list li.first {
+        margin-top: 0;
+    }
+}
+    @media only screen and (min-width: 1260px){
+        .category-content .category-list li {
+            height: 45px;
+        }
+    }
+
+        @media only screen and (min-width: 1025px){
+            .category-content .category-list li {
+                height: 38px;
+                margin-top: -2px;
+                z-index: 113;
+                border-top: 1px solid #333;
+                border-bottom: 1px solid #252525;
+            }}
+
+@media only screen and (min-width: 1260px){
+    .category-content .category-info {
+        padding-left: 12px;
+        width: 182px;
+        overflow: hidden;
+    }
+}
+    @media only screen and (min-width: 1025px){
+        .category-content .category-info {
+            position: relative;
+            height: 100%;
+            padding-left: 12px;
+            width: 152px;
+            overflow: hidden;
+        }
+    }
+
+@media only screen and (min-width: 1260px){
+    .category-content .b-category-name {
+        padding-left: 10px;
+    }
+}
+    @media only screen and (min-width: 1025px){
+        .category-content .b-category-name {
+            line-height: 32px;
+            padding-top: 3px;
+            padding-left: 5px;
+        }
+    }
+        @media only screen and (min-width: 1025px){
+            .category-content .category-name {
+                overflow: hidden;
+                position: relative;
+            }
+        }
+@media only screen and (min-width: 1260px){
+    .category-content .category-info em {
+        top: 9px;
+    }
+}
+    @media only screen and (min-width: 1025px) {
+        .category-content .category-info em {
+            position: absolute;
+            top: 8px;
+            right: 15px;
+            width: 13px;
+            height: 13px;
+            font: 12px/18px "宋体";
+            color: #9b9b9b;
+        }
+    }
+
+@media only screen and (min-width: 1025px){
+    .category-content .menu-item.top {
+        top: 0px;
+    }
+}
+    @media only screen and (min-width: 1260px){
+        .category-content .menu-item {
+            left: 173px;
+        }
+    }
+        @media only screen and (min-width: 1025px){
+            .category-content .menu-in {
+                display: none;
+            }
+        }
+            @media only screen and (min-width: 1025px){
+                .category-content .menu-item {
+                    position: absolute;
+                    left: 143px;
+                    height: 100%;
+                    z-index: 11;
+                    padding: 0 0 0 2px;
+                    width: 770px;
+                    background: #fff;
+                    border: none;
+                    border-top: 1px solid #bbb\9;
+                }
+            }
+
+@media only screen and (min-width: 1025px){
+    .category-content .menu-item .area-in {
+        position: relative;
+        z-index: 1;
+    }
+}
+
+@media only screen and (min-width: 1025px){
+    .category-content .menu-item .area-bg {
+        padding: 10px 0 10px 40px;
+    }
+}
+@media only screen and (min-width: 1025px){
+    .category-content .menu-srot {
+        width: 100%;
+        overflow: hidden;
+    }
+}
+@media only screen and (min-width: 1025px){
+    .menu-srot .sort-side {
+        overflow: hidden;
+    }
+}
+@media only screen and (min-width: 1025px){
+    .menu-srot .brand-side {
+        float: left;
+        position: relative;
+        margin-left: -10px;
+        padding-top: 10px;
+    }
+}
+    @media only screen and (min-width: 1025px){
+        .brand-side {
+            margin-top: 50px;
+            border-top: 1px solid #eae9e9;
+        }
+    }
+@media only screen and (min-width: 1025px){
+    .brand-side .dl-sort {
+        overflow: hidden;
+        height: 70px;
+    }}

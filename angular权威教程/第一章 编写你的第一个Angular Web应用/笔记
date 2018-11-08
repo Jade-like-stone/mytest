@@ -1,0 +1,19 @@
+first_app/angular2_reddit目
+录下复制一些文件过来。
+复制以下文件到你的应用目录下：
+ src/index.html
+ src/styles.css
+ src/app/vendor
+ src/assets/images
+
+    在Angular中，组件的宿主就是该组件所附着到的元素。你会注意到，我们在@Component中传入了一个选项：
+host: { class: 'row' }。它告诉Angular：我们要在宿主元素（app-article标签）上设置class属性，使其具有row类。
+    这个host选项很不错，它意味着我们可以把app-article的页面脚本封装在组件之内。
+也就是说，我们不必在使用app-article标签的同时要求父视图中的页面脚本具有class="row"属性。
+借助host选项，我们就可以在组件的内部配置宿主元素了。
+
+
+    在默认情况下，JavaScript会把click事件冒泡到所有父级组件中。因为click事件被冒泡到了父级，
+浏览器就会尝试导航到这个空白链接，于是浏览器就重新刷新了。
+    要解决这个问题，我们得让click的事件处理器返回false。这能确保浏览器不会尝试刷新页面。
+我们要修改代码，以便让每一个voteUp()和voteDown()函数都返回一个布尔值false（告诉浏览器不要向上冒泡）

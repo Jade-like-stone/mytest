@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>let与const</title>
+    <script>
+        window.onload= function () {
+            // 普通函数function name() {
+
+        }// 箭头函数，去掉 function， 加上 =>
+        () => {
+
+        }
+        let show1 = function () {
+            console.log('abc')
+        }
+        let show2 = () => {
+            console.log('abc')
+        }
+        show1() // 调用函数show2()
+        let show4 = function (a) {
+            return a*2
+        }
+        let show5 = a => a * 2  //简洁，类似python lambda 函数
+        console.log(show4(10))console.log(show5(10))
+        }
+    </script>
+</head>
+<body>
+<input type="button" value="按钮1">
+<input type="button" value="按钮2">
+<input type="button" value="按钮3">
+</body>
+</html>

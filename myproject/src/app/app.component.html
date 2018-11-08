@@ -1,0 +1,59 @@
+
+<!--
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+  <input type="text" [(ngModel)]="name" />
+  <br>
+  {{name}}
+</div>
+
+
+<form>
+  <div class="form-group">
+    <label for="email">Email address:</label>
+    <input type="email" class="form-control" id="email">
+  </div>
+  <div class="form-group">
+    <label for="pwd">Password:</label>
+    <input type="password" class="form-control" id="pwd">
+  </div>
+  <div class="form-check">
+    <label class="form-check-label">
+      <input class="form-check-input" type="checkbox"> Remember me
+    </label>
+  </div>
+  <button type="submit" class="btn btn-primary" [disabled]="allow">Submit{{allow}}</button>
+</form>
+
+<div app-servers></div>
+
+<div class="container">
+  <h2>代表指定意义的文本颜色</h2>
+  <p class="text-muted">柔和的文本。</p>
+  <p class="text-primary">重要的文本。</p>
+  <p class="text-success">执行成功的文本。</p>
+  <p class="text-info">代表一些提示信息的文本。</p>
+  <p class="text-warning">警告文本。</p>
+  <p class="text-danger">危险操作文本。</p>
+  <p class="text-secondary">副标题。</p>
+  <p class="text-dark">深灰色文字。</p>
+  <p class="text-light">浅灰色文本（白色背景上看不清楚）。</p>
+  <p class="text-white">白色文本（白色背景上看不清楚）。</p>
+</div>
+-->
+<app-navbar></app-navbar>
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <app-search></app-search>
+    </div>
+    <div class="col-md-9">
+     <router-outlet></router-outlet>
+
+    </div>
+  </div>
+
+</div>
+<app-footer></app-footer>

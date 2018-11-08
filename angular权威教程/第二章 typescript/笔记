@@ -1,0 +1,129 @@
+安装TypeScript环境：npm install -g typescript
+TypeScript并不是一门全新的语言，而是ES6的超集。所有的ES6代码都是完全有效且可编译
+的TypeScript代码
+
+数组用Array类型表示。然而，因为数组是一组相同数据类型的集合，所以我们还需要为数
+组中的条目指定一个类型。
+我们可以用Array<type>或者type[]语法来为数组条目指定元素类型：
+var jobs: Array<string> = ['IBM', 'Microsoft', 'Google'];
+var jobs: string[] = ['Apple', 'Dell', 'HP'];
+数字型数组的声明与之类似：
+var jobs: Array<number> = [1, 2, 3];
+var jobs: number[] = [4, 5, 6];
+
+如果没有显式声明过方法的返回类型和返回值，就会假定它可能返回任何东西（即any类型）。
+然而，因为这里没有任何显式的return语句，所以实际返回的类型是void。
+
+构造函数是当类进行实例化时执行的特殊函数。通常会在构造函数中对新对象进行初始化
+工作。
+构造函数必须命名为constructor。因为构造函数是在类被实例化时调用的，所以它们可以
+有输入参数，但不能有任何返回值。
+我们要通过调用new ClassName()来执行构造函数，以完成类的实例化
+当类没有显式地定义构造函数时，将自动创建一个无参构造函数：
+
+我们可以使用带参数的构造函数来将对象的创建工作参数化。
+比如，我们可以对Person类使用构造函数来初始化它的数据：
+class Person {
+        first_name: string;
+        last_name: string;
+        age: number;
+    constructor(first_name: string, last_name: string, age: number) {
+        this.first_name = first_name;
+        this.last_name = last_name;
+        this.age = age;
+    }
+    greet() {
+        console.log("Hello", this.first_name);
+    }
+    ageInYears(years: number): number {
+        return this.age + years;
+    }
+}
+用下面这种方法重写前面的例子要容易些：
+var p: Person = new Person('Felipe', 'Coury', 36);
+p.greet();
+当创建这个对象的时候，其姓名、年龄都会被初始化。
+
+继承
+面向对象的另一个重要特性就是继承。继承表明子类能够从父类得到它的行为。然后，我们
+就可以在这个子类中重写、修改以及添加行为。
+
+class Report {
+    data: Array<string>;
+    constructor(data: Array<string>) {
+    this.data = data;
+}
+run() {
+    this.data.forEach(function(line) { console.log(line); });
+}
+}
+
+给Report增加几行数据，并调用run把这些数据打印到控制台：
+var r: Report = new Report(['First line', 'Second line']);
+r.run();
+运行结果如下：
+First line
+Second line
+现在，假设我们希望有第二个报表，它需要增加一些头信息和数据，但我们仍想复用现有
+Report类的run方法来向用户展示数据。
+为了复用Report类的行为，要使用extends关键字来继承它：
+    class TabbedReport extends Report {
+        headers: Array<string>;
+        constructor(headers: string[], values: string[]) {
+        super(values)
+        this.headers = headers;
+    }
+    run() {
+        console.log(this.headers);
+        super.run();
+    }
+    }
+    var headers: string[] = ['Name'];
+    var data: string[] = ['Alice Green', 'Paul Pfifer', 'Louis Blakenship'];
+    var r: TabbedReport = new TabbedReport(headers, data)
+    r.run();
+
+胖箭头函数
+胖箭头（=>）函数是一种快速书写函数的简洁语法
+1.当只有一个参数时，圆括号可以省略。箭头（=>）语法可以用作表达式：
+    var evens = [2,4,6,8];
+    var odds = evens.map(v => v + 1);
+    也可以用作语句：
+    data.forEach( line => {
+    console.log(line.toUpperCase())
+    });
+2.胖箭头会共享环绕它的外部代码的this
+    var nate = {
+        name: "Nate",
+        guitars: ["Gibson", "Martin", "Taylor"],
+        printGuitars: function() {
+        this.guitars.forEach( (g) => {
+        console.log(this.name + " plays a " + g);
+    });
+    }
+    };
+
+模板字符串
+    ES6引入了新的模板字符串语法，它有两大优势：
+(1) 可以在模板字符串中使用变量（不必被迫使用+来拼接字符串）；
+(2) 支持多行字符串。
+    1. 字符串中的变量
+    这种特性也叫字符串插值（string interpolation）。你可以在字符串中插入变量，做法如下：
+    var firstName = "Nate";
+    var lastName = "Murray";
+    // interpolate a string
+    var greeting = `Hello ${firstName} ${lastName}`;
+    console.log(greeting);
+    注意，字符串插值必须使用反引号，不能用单引号或双引号。
+
+    2. 多行字符串
+    反引号字符串的另一个优点是允许多行文本：
+    var template = `
+    <div>
+    <h1>Hello</h1>
+    <p>This is a great website</p>
+    </div>
+    `
+    // do something with `template`
+    当我们要插入模板这样的长文本字符串时，多行字符串会非常有帮助。
+

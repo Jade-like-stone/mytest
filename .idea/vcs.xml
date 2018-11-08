@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/angular-tour-of-heroes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anular6英文教程/1. Getting Started/Basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anular6英文教程/myApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/formTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fuzitongxun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-word" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/http" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/httpTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inventory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/life" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newApp/myapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reddit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/router" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sjbd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tongxun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ylzr" vcs="Git" />
+  </component>
+</project>

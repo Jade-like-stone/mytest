@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/edit-server/edit-server.component.html" line="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25cdf108-f0b3-4dd6-82fa-f4ecf6dc638a" name="默认的" comment="angular">
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/dashboard/dashboard.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/dashboard/dashboard.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/dashboard/dashboard.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/dashboard/dashboard.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-search/hero-search.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-search/hero-search.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-search/hero-search.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-search/hero-search.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heros/heros.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heros/heros.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heros/heros.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heros/heros.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/messages/messages.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/messages/messages.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/messages/messages.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/messages/messages.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/mock-heroes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/news/news.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/news/news.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/news/news.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/news/news.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/service/hero.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/service/hero.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/service/in-memory-data.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/service/in-memory-data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/service/message.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/service/message.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/product.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/vendor/semantic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/vendor/themes/default/assets/fonts/icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/vendor/themes/default/assets/fonts/icons.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/vendor/themes/default/assets/fonts/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/vendor/themes/default/assets/fonts/icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/vendor/themes/default/assets/fonts/icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/vendor/themes/default/assets/fonts/icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/vendor/themes/default/assets/images/flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/assets/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/assets/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/assets/images/ng-book-2-minibook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/vendor/semantic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/vendor/themes/default/assets/fonts/icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/vendor/themes/default/assets/fonts/icons.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/vendor/themes/default/assets/fonts/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/vendor/themes/default/assets/fonts/icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/vendor/themes/default/assets/fonts/icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/vendor/themes/default/assets/fonts/icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/vendor/themes/default/assets/images/flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/assets/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/assets/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/assets/images/ng-book-2-minibook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/header/header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/header/header.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/shared/dropdown.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/shopping-list/shoppinglist.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/proxy.conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router/src/app/guard/login.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router/src/app/guard/product.resolve.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router/src/app/guard/unsave.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router/笔记" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-tour-of-heroes/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-tour-of-heroes/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-tour-of-heroes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-tour-of-heroes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-tour-of-heroes/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anular6英文教程/myApp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/anular6英文教程/myApp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anular6英文教程/myApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/anular6英文教程/myApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anular6英文教程/myApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/anular6英文教程/myApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anular6英文教程/myApp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/anular6英文教程/myApp/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formTest/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/formTest/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formTest/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/formTest/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fuzitongxun/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/fuzitongxun/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fuzitongxun/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/fuzitongxun/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fuzitongxun/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fuzitongxun/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fuzitongxun/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fuzitongxun/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fuzitongxun/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fuzitongxun/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-word/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-word/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-word/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello-word/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-word/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hello-word/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-word/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hello-word/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/http/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/http/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpTest/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/httpTest/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpTest/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/httpTest/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpTest/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/httpTest/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpTest/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/httpTest/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/life/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/life/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/life/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/life/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/life/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/life/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/life/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/life/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/life/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/life/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newApp/myapp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/newApp/myapp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newApp/myapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/newApp/myapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newApp/myapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/newApp/myapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newApp/myapp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/newApp/myapp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newApp/myapp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/newApp/myapp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newApp/myapp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/newApp/myapp/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reddit/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/reddit/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reddit/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/reddit/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reddit/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/reddit/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reddit/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reddit/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reddit/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/reddit/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/router/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/router/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/router/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/router/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/router/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sjbd/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/sjbd/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sjbd/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sjbd/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sjbd/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sjbd/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tongxun/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/tongxun/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tongxun/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tongxun/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tongxun/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tongxun/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ylzr/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ylzr/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ylzr/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ylzr/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ylzr/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ylzr/src/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1367296586">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="35" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.138" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="3" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.72" value="4" />
+          <entry key="project.open.time.75" value="2" />
+          <entry key="project.open.time.77" value="2" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="2" />
+          <entry key="browserslist" value="1" />
+          <entry key="cmd" value="1" />
+          <entry key="css" value="51" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="158" />
+          <entry key="ico" value="1" />
+          <entry key="js" value="20" />
+          <entry key="json" value="48" />
+          <entry key="map" value="2" />
+          <entry key="md" value="1" />
+          <entry key="png" value="2" />
+          <entry key="rnc" value="1" />
+          <entry key="ts" value="282" />
+          <entry key="笔记" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="51" />
+          <entry key="HTML" value="158" />
+          <entry key="Image" value="3" />
+          <entry key="JSON" value="39" />
+          <entry key="JavaScript" value="20" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="SourceMap" value="2" />
+          <entry key="TypeScript" value="282" />
+          <entry key="tsconfig" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TsLintLanguageService" value="2" />
+          <entry key="TypeScriptServerServiceImpl" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="441" />
+          <entry key="html" value="5421" />
+          <entry key="json" value="209" />
+          <entry key="ts" value="9220" />
+          <entry key="txt" value="7" />
+          <entry key="笔记" value="131" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="441" />
+          <entry key="HTML" value="5424" />
+          <entry key="JSON" value="209" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="138" />
+          <entry key="TypeScript" value="9216" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/app.component.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fuzitongxun/src/app/footer/footer.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/footer/footer.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#103#109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/navbar/navbar.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/footer/footer.component.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myproject/src/app/navbar/navbar.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myproject/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="45" selection-start-line="45" selection-end-line="58" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newApp/myapp/src/styles.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newApp/myapp/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>all-goods</find>
+      <find>title</find>
+      <find>long-title</find>
+      <find>.hover</find>
+      <find>.category</find>
+      <find>category</find>
+      <find>@</find>
+      <find>brand-side</find>
+      <find>img</find>
+      <find>hover</find>
+      <find>.category-content .category-list li.hover .b-category-n</find>
+      <find>my_</find>
+      <find>#0e90d2</find>
+      <find>marqueen</find>
+      <find>app-root</find>
+      <find>produ</find>
+      <find>Injectable</find>
+      <find>Comment</find>
+      <find>onProductSelected</find>
+      <find>ngModel</find>
+      <find>Product</find>
+      <find>asset</find>
+      <find>link</find>
+      <find>artical</find>
+      <find>semantic.min</find>
+      <find>glyphicon</find>
+      <find>font-fac</find>
+      <find>font-face</find>
+      <find>app</find>
+      <find>&quot;app&quot;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/newApp/myapp" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/http/src/app/product/product.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/node_modules/bootstrap/dist/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/angular.json" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/index.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/cmp-databinding-final/e2e/src/app.po.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/shared/ingredient.model.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/shared/dropdown.directive.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/header/header.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-list/recipe-list.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipes.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipes.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-list/recipe-list.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/shopping-list/shopping-list.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/shopping-list/shopping-list.component.ts" />
+        <option value="$PROJECT_DIR$/es6/et.html" />
+        <option value="$PROJECT_DIR$/es6/let.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe.model.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-detail/recipe-detail.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-detail/recipe-detail.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe.service.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/myApp/src/app/shopping-list/shoppinglist.service.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/e2e/src/app.po.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/users/user/user.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/users/user/user.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/users/users.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/server/server.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/servers.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/edit-server/edit-server.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/edit-server/edit-server.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/server/server.component.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/wrong-page/wrong-page.component.html" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/newApp/myapp/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/newApp/myapp/angular.json" />
+        <option value="$PROJECT_DIR$/newApp/myapp/src/index.html" />
+        <option value="$PROJECT_DIR$/newApp/myapp/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/newApp/myapp/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/newApp/myapp/src/app/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/newApp/myapp/src/app/footer/footer.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/first_app/angular2_reddit/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/node_modules" />
+    <handled-path value="$PROJECT_DIR$/anular6英文教程/cmp-databinding-final/node_modules" />
+    <handled-path value="$PROJECT_DIR$/anular6英文教程/myApp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/anular6英文教程/router/routing-start/node_modules" />
+    <handled-path value="$PROJECT_DIR$/formTest/node_modules" />
+    <handled-path value="$PROJECT_DIR$/fuzitongxun/node_modules" />
+    <handled-path value="$PROJECT_DIR$/hello-word/node_modules" />
+    <handled-path value="$PROJECT_DIR$/http/node_modules" />
+    <handled-path value="$PROJECT_DIR$/httpTest/node_modules" />
+    <handled-path value="$PROJECT_DIR$/inventory/node_modules" />
+    <handled-path value="$PROJECT_DIR$/life/node_modules" />
+    <handled-path value="$PROJECT_DIR$/myproject/node_modules" />
+    <handled-path value="$PROJECT_DIR$/newApp/myapp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/reddit/node_modules" />
+    <handled-path value="$PROJECT_DIR$/router/node_modules" />
+    <handled-path value="$PROJECT_DIR$/sjbd/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tongxun/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/angular-tour-of-heroes/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/advanced_components/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/built_in_directives/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/conversion/hybrid/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/conversion/ng1/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/dependency_injection/complex/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/dependency_injection/injector/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/dependency_injection/misc/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/dependency_injection/simple/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/dependency_injection/value/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/first_app/angular2_hello_world/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/first_app/angular2_reddit/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/forms/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/how_angular_works/inventory_app/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/http/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/nativescript/photos-near-me/app/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/nativescript/photos-near-me/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/redux/angular2-redux-chat/minimal/tutorial/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/redux/angular2-redux-chat/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/routes/auth/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/routes/basic/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/routes/music/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/routes/nested/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/code/code-master/rxjs/chat/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/angular2-reddit/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/first_app/angular2_hello_world/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/第一章 编写你的第一个Angular Web应用/first_app/angular2_reddit/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/package.json" />
+      <path value="$PROJECT_DIR$/angular权威教程/第五章 angular中的表单/formTest/package.json" />
+      <path value="$PROJECT_DIR$/anular6英文教程/cmp-databinding-final/package.json" />
+      <path value="$PROJECT_DIR$/anular6英文教程/myApp/package.json" />
+      <path value="$PROJECT_DIR$/anular6英文教程/router/routing-start/package.json" />
+      <path value="$PROJECT_DIR$/formTest/package.json" />
+      <path value="$PROJECT_DIR$/fuzitongxun/package.json" />
+      <path value="$PROJECT_DIR$/hello-word/package.json" />
+      <path value="$PROJECT_DIR$/http/package.json" />
+      <path value="$PROJECT_DIR$/httpTest/package.json" />
+      <path value="$PROJECT_DIR$/inventory/package.json" />
+      <path value="$PROJECT_DIR$/life/package.json" />
+      <path value="$PROJECT_DIR$/myproject/package.json" />
+      <path value="$PROJECT_DIR$/newApp/myapp/package.json" />
+      <path value="$PROJECT_DIR$/reddit/package.json" />
+      <path value="$PROJECT_DIR$/router/package.json" />
+      <path value="$PROJECT_DIR$/server/package.json" />
+      <path value="$PROJECT_DIR$/sjbd/package.json" />
+      <path value="$PROJECT_DIR$/tongxun/package.json" />
+      <path value="$PROJECT_DIR$/ylzr/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="855" />
+    <option name="height" value="761" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+              <item name="angular权威教程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+              <item name="inventory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+              <item name="newApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+              <item name="newApp" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+              <item name="newApp" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+              <item name="newApp" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+              <item name="newApp" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="footer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTest" type="462c0819:PsiDirectoryNode" />
+              <item name="newApp" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="navbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Users/Documents/Tencent Files/1179599344/FileRecv/server(1)" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="E:\myTest\inventory\node_modules\tslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="ts.external.directory.path" value="C:\Users\Administrator\AppData\Roaming\npm\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\myTest\anular6英文教程\router" />
+      <recent name="E:\myTest\anular6英文教程" />
+      <recent name="E:\myTest\anular6英文教程\myApp\node_modules\bootstrap\dist" />
+      <recent name="E:\myTest\angular权威教程\第五章 angular中的表单\formTest\src\app" />
+      <recent name="E:\myTest\angular权威教程\第五章 angular中的表单\formTest\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\myTest\商城模板\one\home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25cdf108-f0b3-4dd6-82fa-f4ecf6dc638a" name="默认的" comment="" />
+      <created>1535420036468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535420036468</updated>
+      <workItem from="1535420038041" duration="24713000" />
+      <workItem from="1535506755365" duration="19034000" />
+      <workItem from="1535591722685" duration="33494000" />
+      <workItem from="1535678384797" duration="25586000" />
+      <workItem from="1535763143604" duration="13980000" />
+      <workItem from="1535938056698" duration="8168000" />
+      <workItem from="1535953753523" duration="11559000" />
+      <workItem from="1536028628942" duration="9787000" />
+      <workItem from="1536203713714" duration="918000" />
+      <workItem from="1536208013146" duration="65000" />
+      <workItem from="1536208152026" duration="1562000" />
+      <workItem from="1536215810193" duration="7317000" />
+      <workItem from="1536283459776" duration="6736000" />
+      <workItem from="1536299307289" duration="1841000" />
+      <workItem from="1536301301967" duration="6541000" />
+      <workItem from="1536369987468" duration="4165000" />
+      <workItem from="1536377306331" duration="2398000" />
+      <workItem from="1536546348322" duration="8850000" />
+      <workItem from="1536635797434" duration="6370000" />
+      <workItem from="1536801299495" duration="16546000" />
+      <workItem from="1536888733477" duration="15473000" />
+      <workItem from="1537150242192" duration="1875000" />
+      <workItem from="1537153083560" duration="19927000" />
+      <workItem from="1537233045804" duration="9763000" />
+      <workItem from="1537253231109" duration="11505000" />
+      <workItem from="1537320078140" duration="16062000" />
+      <workItem from="1537406439394" duration="8775000" />
+      <workItem from="1537422074474" duration="5809000" />
+      <workItem from="1537429852430" duration="2280000" />
+      <workItem from="1537435167200" duration="673000" />
+      <workItem from="1537435994984" duration="738000" />
+      <workItem from="1537437045778" duration="231000" />
+      <workItem from="1537493962091" duration="4391000" />
+      <workItem from="1537498993943" duration="569000" />
+      <workItem from="1537499578449" duration="3856000" />
+      <workItem from="1537516717465" duration="3862000" />
+      <workItem from="1537924623685" duration="13495000" />
+      <workItem from="1538011522397" duration="1227000" />
+      <workItem from="1538100454714" duration="1754000" />
+      <workItem from="1538189667530" duration="5107000" />
+      <workItem from="1538961373545" duration="23019000" />
+      <workItem from="1539050115068" duration="55000" />
+      <workItem from="1539050198248" duration="21000" />
+      <workItem from="1539050237901" duration="13942000" />
+      <workItem from="1539134589291" duration="3930000" />
+      <workItem from="1539139605306" duration="9732000" />
+      <workItem from="1539222485953" duration="10651000" />
+      <workItem from="1539306688941" duration="8862000" />
+      <workItem from="1539568206494" duration="18618000" />
+      <workItem from="1539654802499" duration="3712000" />
+      <workItem from="1539663278380" duration="21000" />
+      <workItem from="1539663379777" duration="755000" />
+      <workItem from="1539664433168" duration="1037000" />
+      <workItem from="1539670688246" duration="9015000" />
+      <workItem from="1539740677060" duration="13765000" />
+      <workItem from="1539834424043" duration="5785000" />
+      <workItem from="1539847030802" duration="248000" />
+      <workItem from="1539851622187" duration="1159000" />
+      <workItem from="1539915595258" duration="14840000" />
+      <workItem from="1540172798800" duration="15162000" />
+      <workItem from="1540258634312" duration="6318000" />
+      <workItem from="1540273798796" duration="5661000" />
+      <workItem from="1540360185268" duration="4707000" />
+      <workItem from="1540430751190" duration="14134000" />
+      <workItem from="1540518443015" duration="9558000" />
+      <workItem from="1540951770673" duration="10143000" />
+      <workItem from="1541037753479" duration="11608000" />
+      <workItem from="1541127899801" duration="1056000" />
+      <workItem from="1541496777796" duration="1671000" />
+      <workItem from="1541555524171" duration="9182000" />
+      <workItem from="1541641197505" duration="683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="566052000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18967333" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50263435" weight="0.3275488" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49209693" weight="0.3109426" />
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="10" sideWeight="0.5442571" weight="0.2635575" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.5958904" visible="true" weight="0.27765727" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.4041096" side_tool="true" weight="0.27765727" />
+      <window_info anchor="bottom" id="调试" order="13" />
+      <window_info anchor="bottom" id="找到" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tongxun/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/formTest/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/reddit/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/life/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/angular权威教程/第三章 Angular的工作原理/inventory-app/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+    <option name="additionalRoots">
+      <list>
+        <option value="$PROJECT_DIR$/life/node_modules/@angular" />
+        <option value="$PROJECT_DIR$/myproject/node_modules/@angular" />
+        <option value="$PROJECT_DIR$/router/node_modules/@angular" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="angular" />
+    <option name="LAST_COMMIT_MESSAGE" value="angular" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-detail/recipe-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipes.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/shared/ingredient.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/shared/dropdown.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-detail/recipe-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="70" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/recipes/recipe.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/shopping-list/shoppinglist.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/e2e/src/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/node_modules/@angular/http/src/http_module.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="16" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/users/users.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/users/user/user.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/users/user/user.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/users/users.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/edit-server/edit-server.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/servers.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/server/server.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/server/server.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/servers.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/edit-server/edit-server.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/edit-server/edit-server.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/servers.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/angular.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/wrong-page/wrong-page.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/router/routing-start/src/app/servers/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anular6英文教程/myApp/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fuzitongxun/src/app/footer/footer.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/footer/footer.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/src/app/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" selection-start-line="45" selection-end-line="58" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newApp/myapp/src/app/footer/footer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#103#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

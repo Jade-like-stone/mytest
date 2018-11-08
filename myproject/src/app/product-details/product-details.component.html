@@ -1,0 +1,44 @@
+
+
+<div class="card">
+  <img class="card-img-top" src="https://placehold.it/850x300" alt="Card image" style="width:100%">
+  <div class="card-body">
+    <h5 class="card-title clearfix">
+      <h4 class="float-right text-success">{{product?.price}}元</h4>
+
+      <h4 class="float-left text-muted">{{product?.title}}</h4>
+
+
+    </h5>
+    <p class="card-text">{{product?.desc}}</p>
+    <p class="float-right">{{comment?.length}}</p>
+    <div>
+      <app-stars [rating]="product?.rating | number:'1.0-2'" ></app-stars>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+
+    <div class="col-md-12 bg-light text-dark" style="margin-top:20px;">
+      <button type="button" class="btn btn-success" (click)="isCommentHidden=!isCommentHidden">发表评论</button>
+      <div [hidden]="isCommentHidden">
+        <app-stars [readonly]="false" [(rating)]="defaultRating"></app-stars>
+        <textarea [(ngModel)]="defaultComment"></textarea>
+        <div>
+          <button type="button" class="btn btn-primary" (click)="CreateNew()">提交</button>
+        </div>
+      </div>
+    </div>
+
+  <div class="col-md-12 bg-light text-dark " *ngFor="let item of comment" style="margin:5px;">
+    <p>{{item.user}}</p>
+    <div class="clearfix">
+      <app-stars [rating]="item.rating" class="float-left"> </app-stars>
+      <span class="float-right">{{item.times}}</span>
+
+    </div>
+
+    <p>{{item.content}}</p>
+  </div>
+</div>

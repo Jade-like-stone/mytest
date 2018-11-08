@@ -1,0 +1,36 @@
+
+<!--<div class="row">
+  <div class="col-sm-12">
+
+    <div class="form-group">
+      <input type="text" class="form-control" placeholder="请输入商品名称" [formControl]="titleFilter">
+    </div>
+
+  </div>
+</div>-->
+  <div class="row">
+
+    <!--<div class=" col-md-4 col-lg-4 box" *ngFor="let item of products| filter:'title':keyword" >-->
+    <div class=" col-md-4 col-lg-4 box" *ngFor="let item of products| async" >
+      <div class="card">
+        <img class="card-img-top" src="http://placehold.it/320x150" alt="Card image" style="width:100%">
+        <div class="card-body">
+          <h5 class="card-title clearfix">
+            <!--<h4 class="float-right text-success"><a [routerLink]="['/product',item.price]">{{item.price}}元</a></h4>-->
+            <!--<h4><a class="float-left text-muted" [routerLink]="['/product',item.title]">{{item.title}}</a></h4>-->
+            <h4 class="float-right text-success">{{item.price}}元</h4>
+            <h4><a class="float-left text-muted" [routerLink]="['/product',item.id]">{{item.title}}</a></h4>
+
+          </h5>
+          <p class="card-text">{{item.desc}}</p>
+          <div>
+            <app-stars [rating]="item.rating" ></app-stars>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+

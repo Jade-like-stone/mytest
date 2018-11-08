@@ -1,0 +1,40 @@
+/* Write your styles */
+
+.panel-left{
+
+
+    border:none;
+
+}
+.panel-left .am-panel-hd{
+
+    background-color: #fff;
+    border:none;
+}
+.panel-left .am-panel-hd h3{
+
+    color:#00b4ff;
+}
+.panel-left ul{
+
+}
+.panel-left ul li{
+    border:none;
+    padding: 15px 0;
+}
+.panel-left ul li a{
+    padding:0 15px !important;
+    color:#787878;
+}
+.panel-left .active{
+    color:#00b4ff;
+    border-left: 4px solid #00b4ff;
+}
+.panel-left ul li a img{
+    padding-top:3px;
+    /*margin-right: 14px;*/
+    margin-bottom: 0;
+}
+.panel-right .am-panel-hd{
+    background-color: #fff;
+}
